@@ -1,0 +1,20 @@
+{
+    "name": "houdain-names-generator",
+    "version": "1.0.0",
+    "description": "Simple name generator that switches the first letters of the chosen name based on the user's input",
+    "main": "src/main.ts",
+    "scripts": {
+        "start": "ts-node src/main.ts",
+        "lint": "prettier . --write"
+    },
+    "author": "Amnezzia",
+    "license": "ISC",
+    "devDependencies": {
+        "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+        "@tsconfig/node20": "^20.1.4",
+        "@types/node": "^20.11.30",
+        "prettier": "3.2.5",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.4.3"
+    }
+}

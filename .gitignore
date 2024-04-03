@@ -1,0 +1,14 @@
+// env variables
+.env
+
+// node_modules
+node_modules
+
+// build files
+build
+
+// logs
+logs
+
+// local ignore files
+src/discovered_names.txt
