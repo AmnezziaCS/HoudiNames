@@ -9,7 +9,7 @@ This program is a simple name generator that switches the first letters of the n
 First you will have to clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/AmnezziaCS/HoudiNames.git
 ```
 
 Then you will have to install the dependencies:
